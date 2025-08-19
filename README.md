@@ -10,18 +10,14 @@ I'm passionate about coding, learning new technologies, and building cool projec
 - ⚡ Fun fact: I love solving puzzles and challenges
 
 ## 🛠️ Skills & Tools
-- Languages: Python, JavaScript, TypeScript, Go
-- Frameworks: React, Node.js, Express, Django
-- Cloud & DevOps: Docker, Kubernetes, AWS, Azure
+- Languages: Python, JavaScript, TypeScript, C++
+- Frameworks: React, Node.js, Express, Django, FAST-Api
 - Databases: PostgreSQL, MongoDB, MySQL
 
-## 📈 GitHub Stats
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzankitks&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/itzankitks/)
-- [Twitter](https://twitter.com/itzankitks)
-- Email: itzankitks@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ankit-kumar-soni-87133625b/)
+- Email: soni.ankit.aks@gmail.com
 
 ---
 
